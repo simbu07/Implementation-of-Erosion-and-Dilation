@@ -72,14 +72,12 @@ plt.axis('off')
 
 ### Display the input Image
 
-![input](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/157e1808-feb0-4946-8e35-3f6c8d9363a9)
+![Screenshot 2023-05-11 114518](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/022be511-3334-4752-bc93-a60b34c6501e)
 
 ### Display the Eroded Image
 
-![input2](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/7b021f2e-881e-42b5-9a7a-30e0a337d4b0)
-
+![Screenshot 2023-05-11 114527](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/820e6945-34da-4d56-b976-32b84d511a6b)
 ### Display the Dilated Image
-![input3](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/ce005d2c-38fc-4498-a727-14b7dd889729)
-
+![Screenshot 2023-05-11 114535](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/d620dde1-40cb-401a-aa96-1213f9f6ddda)
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
