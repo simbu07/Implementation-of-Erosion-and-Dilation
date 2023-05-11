@@ -26,8 +26,8 @@ End the program.
 ## Program:
 
 ``` 
-Developed by : Sanjay S
-Register Number: 212221230086
+Developed by : Silambarasan K
+Register Number: 212221230101
 Program to implement Erosion and Dilation using Python and OpenCV.
 ```
 ```py
@@ -72,17 +72,14 @@ plt.axis('off')
 
 ### Display the input Image
 
-![Screenshot 2023-05-11 112200](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/191b7e73-0039-44d6-b82f-a7f82f1156b6)
-
+![input](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/157e1808-feb0-4946-8e35-3f6c8d9363a9)
 
 ### Display the Eroded Image
 
-![Screenshot 2023-05-11 112212](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/a36b7053-0696-434d-a8ef-1a1dafc91a9f)
-
+![input2](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/7b021f2e-881e-42b5-9a7a-30e0a337d4b0)
 
 ### Display the Dilated Image
-![Screenshot 2023-05-11 112227](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/c2eed713-274d-414b-b3ef-ef6c1318e00e)
-
+![input3](https://github.com/simbu07/Implementation-of-Erosion-and-Dilation/assets/94525786/ce005d2c-38fc-4498-a727-14b7dd889729)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
